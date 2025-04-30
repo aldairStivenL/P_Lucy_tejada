@@ -74,3 +74,6 @@ class Inscripcion(models.Model):
     class Meta:
         verbose_name = "Inscripción"
         verbose_name_plural = "Inscripciones"
+
+#####coment
+#####coment
